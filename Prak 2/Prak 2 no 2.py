@@ -1,5 +1,5 @@
 #Nama : M Gigih Lanang P
-#NIM  : 200513970353
+#NIM  : 20051397053
 #Prodi: D4 Manajemen Informatika (2020A)
 
 
